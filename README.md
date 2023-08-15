@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/alvin5101/FinBoard/blob/main/Screenshot%202023-08-14%20221217.png?raw=true" alt="MERN Finance Dashboard App" width="600">
+  <img src="https://github.com/alvin5101/FinBoard/blob/main/Screenshot%202023-08-15%20171025.png?raw=true" alt="MERN Finance Dashboard App" width="600">
 </div>
 
 # MERN Finance Dashboard App 🚀
